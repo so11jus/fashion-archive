@@ -1,0 +1,42 @@
+category,tag,priority
+fashion,мода,1
+fashion,подиум,1
+fashion,модель,1
+fashion,кутюр,2
+fashion,лукбук,2
+style,уличный стиль,2
+style,гранж,3
+style,минимализм,2
+style,бохо,3
+style,эклектика,3
+style,спорт-шик,2
+shooting_type,портрет,1
+shooting_type,фотосессия,1
+shooting_type,студийная съёмка,1
+shooting_type,уличная фотография,1
+shooting_type,fashion-съёмка,1
+shooting_type,lifestyle,2
+location,студия,1
+location,природа,2
+location,город,2
+location,море,3
+location,лес,3
+location,пустыня,3
+location,заброшенное здание,3
+atmosphere,футуризм,3
+atmosphere,dark fashion,3
+atmosphere,dreamcore,3
+atmosphere,чёрно-белое,2
+atmosphere,плёночная эстетика,2
+atmosphere,эмоциональность,3
+clothing,total black,2
+clothing,аксессуары,2
+clothing,авангард,3
+clothing,деним,2
+clothing,кожа,2
+clothing,прозрачные ткани,3
+clothing,оверсайз,2
+clothing,обувь,2
+clothing,макияж,2
+clothing,прическа,2
+clothing,экстравагантность,3

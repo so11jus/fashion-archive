@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+*.log
+clip-server/clip-env/
+clip-server/__pycache__/
+clip-server/.venv/
+clip-server/venv/
+client/build/
+client/dist/
+server/.env
+server/__pycache__/
+server/.venv/
+server/venv/
+
